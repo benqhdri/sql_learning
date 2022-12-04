@@ -1,1 +1,3 @@
 select a from A where a.s='abc'
+
+select b from B where b.t='hello'
